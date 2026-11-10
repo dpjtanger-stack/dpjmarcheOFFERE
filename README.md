@@ -1,6 +1,0 @@
-<div align="center">
-
-
-  
-
-</div>
